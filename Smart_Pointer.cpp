@@ -1,4 +1,6 @@
+
 /*
+Author : Babasaheb Argade
 	Smart Pointer:
 		=> When we want to call a member function of class then we can use object of that class or pointer of that class.
 		=> if we use object of that class then we have to use dot ('.') operator to access member function
